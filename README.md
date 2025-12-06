@@ -1,5 +1,7 @@
 # Optimized Tensor Operations Compiler
 
+> **Note**: This compiler demonstrates advanced algorithmic techniques for automatic optimization of tensor computations. See the [Getting Started](#getting-started) section below to begin using the system.
+
 ## Table of Contents
 1. [Problem Context and Motivation](#problem-context-and-motivation)
 2. [Research Hypothesis and Guiding Question](#research-hypothesis-and-guiding-question)
